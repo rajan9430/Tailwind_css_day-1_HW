@@ -1,1 +1,1 @@
-## Hosted link ===> https://rajan9430.github.io/Tailwind_css_day-2/
+## Hosted link ===> https://tailwind-css-day-1-classwork-3nr4.vercel.app/
